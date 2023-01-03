@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/course_tracker/static/css/main.5a1da6d5.css",
-    "main.js": "/course_tracker/static/js/main.5f23d198.js",
+    "main.css": "/course_tracker/static/css/main.db6ca3e1.css",
+    "main.js": "/course_tracker/static/js/main.6fe9ea38.js",
     "index.html": "/course_tracker/index.html",
-    "main.5a1da6d5.css.map": "/course_tracker/static/css/main.5a1da6d5.css.map",
-    "main.5f23d198.js.map": "/course_tracker/static/js/main.5f23d198.js.map"
+    "main.db6ca3e1.css.map": "/course_tracker/static/css/main.db6ca3e1.css.map",
+    "main.6fe9ea38.js.map": "/course_tracker/static/js/main.6fe9ea38.js.map"
   },
   "entrypoints": [
-    "static/css/main.5a1da6d5.css",
-    "static/js/main.5f23d198.js"
+    "static/css/main.db6ca3e1.css",
+    "static/js/main.6fe9ea38.js"
   ]
 }
