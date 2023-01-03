@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/course_tracker/static/css/main.5a1da6d5.css",
+    "main.js": "/course_tracker/static/js/main.5f23d198.js",
+    "index.html": "/course_tracker/index.html",
+    "main.5a1da6d5.css.map": "/course_tracker/static/css/main.5a1da6d5.css.map",
+    "main.5f23d198.js.map": "/course_tracker/static/js/main.5f23d198.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a1da6d5.css",
+    "static/js/main.5f23d198.js"
+  ]
+}
