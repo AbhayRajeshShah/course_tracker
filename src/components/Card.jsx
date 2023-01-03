@@ -57,7 +57,7 @@ const Card = ({ subject, ind }) => {
                     className="chapter_name"
                     style={{
                       cursor: "pointer",
-                      color: index === i ? "#60a5fa" : "white",
+                      color: index === i ? "#15f4ee" : "white",
                     }}
                   >
                     {el.name}
