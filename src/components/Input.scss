@@ -1,0 +1,27 @@
+input {
+  border: none;
+  border-bottom: solid 2px #60a5fa;
+  outline: none;
+  color: white;
+  background-color: transparent;
+}
+
+.add_btn {
+  text-align: center;
+  height: 2rem;
+  width: 2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: none;
+  font-weight: bold;
+  background-color: #ffffff16;
+  color: white;
+  font-size: 1rem;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: all 0.25s;
+  &:hover {
+    opacity: 0.9;
+  }
+}

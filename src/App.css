@@ -1,5 +1,10 @@
 .App {
+  padding: 2rem 2rem;
   text-align: center;
+  display: flex;
+  justify-content: flex-start;
+  gap: 2rem;
+  overflow-y: visible;
 }
 
 .App-logo {
@@ -35,4 +40,30 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.primary {
+  padding: 1rem 2rem;
+  background-color: transparent;
+  border-radius: 12px;
+  color: white;
+  border: 2px solid #60a5fa;
+  transition: all 0.5s;
+  cursor: pointer;
+}
+.primary:hover {
+  background-color: #60a5fa;
+  color: white;
+}
+
+.add_sub {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.add_sub:hover {
+  cursor: pointer;
+  opacity: 0.8;
 }
